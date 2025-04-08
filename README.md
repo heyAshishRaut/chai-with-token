@@ -5,7 +5,7 @@ this app helps visualize how text breaks into smaller components.
 
 # Preview
 
-![image](https://github.com/user-attachments/assets/a559c1cb-8b17-447a-ae90-31f4ee1b8ec1)
+![image](https://github.com/user-attachments/assets/0fa2bfd7-06b9-4bd5-9fba-aae809c39f84)
 
 
 # Features
