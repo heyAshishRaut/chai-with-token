@@ -134,6 +134,13 @@ button:hover{
     }
 }
 
+@media (max-width: 900px) {
+    #wrapper {
+        height: 100vh;
+        padding: 20px 40px;
+    }
+}
+
 @media (max-width: 600px){
     #wrapper{
         padding: 20px;
